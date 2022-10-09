@@ -1,0 +1,41 @@
+/*--------------------------------------------------
+     Author: Ionut Catana
+--------------------------------------------------*/
+/*--------------------------------------------------
+    Generic Styles
+--------------------------------------------------*/
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+}
+
+h2 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*--------------------------------------------------
+   CONTACT STYLES
+--------------------------------------------------*/
+.form-rsvp {
+    max-width: 500px;
+    margin: 2rem auto;
+    border: 2px solid #e74c3c;
+    padding: 2rem;
+    border-radius: 25px;
+}
